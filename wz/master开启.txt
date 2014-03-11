@@ -1,0 +1,1 @@
+python startmaster.py single master
